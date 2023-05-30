@@ -1,0 +1,24 @@
+d)
+What do you observe?
+
+local:
+Only slight wiggle of the polymer
+
+reptation:
+Only ends change
+
+pivot:
+Polymer is not recognizable after only few moves
+
+
+Which move is the most effective to generate uncorrelated configurations?
+pivot, as it changes the appearance of the polymer most in few steps
+
+
+Why are some frames of your trajectory identical to the previous?
+With my simulation I dont see identical trajectories, but I also do 10 steps before saving another trajectory.
+In principle there should always be a finite chance to get back to your original state because of detailed balance.
+
+
+e)
+When comparing different energies you can see that at lower temperature the polymer changes less during steps.

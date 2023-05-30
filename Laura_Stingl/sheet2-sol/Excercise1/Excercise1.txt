@@ -1,0 +1,8 @@
+Sheet 2 Excercise 1
+For each part I generated 5 trajectories.
+The trajectories of parts a,b,c,e are in the folder trajectories-Ex1, their visualizations in the folder visualization
+(d) Allowing only local moves results in the most indentical trajectories. 4 out of 5 trajectories follow a similar path. 
+When allowing only reptation moves 4 out of 5 trajectories overlap partly on the same path. 
+Only using pivot moves yields 5 entirely distinct trajectories which are far apart from each other in space. This is the most effective method to generate uncorrelated conficurations.
+
+(e) Uses a mix of local, pivot (10 each) and reptatian (5) moves with T=1. The trajectories are located in a similar region but do not overlap.
