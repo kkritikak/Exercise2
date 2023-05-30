@@ -1,0 +1,9 @@
+do random walk with random starting location. gui is optional.
+fit the curve and the exponent is v => 0.5
+
+but which data are we plotting?
+We plot the amount of selected cells on y and steps on x.
+
+it can be fitted by a polynom. not with an x^0.5
+... o.0
+

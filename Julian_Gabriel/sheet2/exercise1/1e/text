@@ -1,0 +1,2 @@
+All moves are mixed, therefore a uncorrelated new configuration is created with reptation and local moves (wiggle) variations.
+Because of the reduced temperature the changes are smaller then the same moves at the higher temperature (stiffness).

@@ -1,0 +1,3 @@
+(c): When two frames have identical configurations, the move is rejected because the energy of the move is higher than the energy from the previous configuration. 
+
+Pivot moves create the most uncorrelated changes. Local moves only change the configuration in a subtle way.

@@ -1,0 +1,10 @@
+In 1a only slightly different states are generated at one end of the polymer.
+In 1b the reptation elements are moved from the one end to the other of the polymer.
+The majority of the polymer stays unchanged for local and reptation moves.
+In 1c a completly new uncorrelated configuration is created by the pivot moves.
+
+Therefore, pivot moves are the most effective moves to create uncorrelated new configurations.
+
+Sometimes there are no changes in some frames due to the fact that a step ends in an unvalid configureation.
+In this the case, the frame is unrolled to the previous state.
+
