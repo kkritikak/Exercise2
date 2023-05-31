@@ -8,3 +8,4 @@ Therefore, pivot moves are the most effective moves to create uncorrelated new c
 Sometimes there are no changes in some frames due to the fact that a step ends in an unvalid configureation.
 In this the case, the frame is unrolled to the previous state.
 
+(#4/4 points in Task 1)

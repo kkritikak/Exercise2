@@ -3,6 +3,9 @@ import math
 import numpy as np
 
 import matplotlib.pyplot as plt
+
+#(4/4points for task 4)
+
 # (a) plot distribution, plot is included in solution
 # siliciumdioxid
 m_mol = 60.1 #g/mol

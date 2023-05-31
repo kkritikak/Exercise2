@@ -1,4 +1,9 @@
-d)
+Exercise1(4point/4point)
+a)0.5 point
+b)0.5 point
+c)1 point
+
+d)1 point
 What do you observe?
 
 local:
@@ -19,6 +24,5 @@ Why are some frames of your trajectory identical to the previous?
 With my simulation I dont see identical trajectories, but I also do 10 steps before saving another trajectory.
 In principle there should always be a finite chance to get back to your original state because of detailed balance.
 
-
-e)
+e)1point
 When comparing different energies you can see that at lower temperature the polymer changes less during steps.

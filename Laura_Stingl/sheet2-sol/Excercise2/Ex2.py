@@ -1,4 +1,5 @@
-# Sheet 2 Excercise 2
+# Sheet 2 Excercise 2(3.5points/4points) 
+#comment-The plot of R2ee and N will be a straight line, when you use the same code for different values of N analyse, please remember to refresh your code , this effect(in the plot(Plot will be little look like a straight line(not exactly)) is coming out due to that 
 # Laura Stingl
 
 import numpy
