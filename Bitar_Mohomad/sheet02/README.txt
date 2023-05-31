@@ -8,3 +8,9 @@ You can find the code again in the following repository: https://gitlab.rlp.net/
 cargo run --release -p sheet02
 
 Please write me if something is not clear :)
+
+Task 2 (4/4 points)
+Task 3 (8/8 points)
+
+total (12/20 points)
+Note: I didn't find any submissions for trajectory for Task 1 , also no solution for Task 1 and Task 4 (not in the zip file and not on the link provided in this file), please contact me(kkritika@uni-mainz.de) if you have also submitted those.

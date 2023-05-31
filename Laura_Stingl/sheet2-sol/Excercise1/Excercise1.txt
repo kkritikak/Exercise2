@@ -1,4 +1,4 @@
-Sheet 2 Excercise 1
+Sheet 2 Excercise 1(#4/4points)
 For each part I generated 5 trajectories.
 The trajectories of parts a,b,c,e are in the folder trajectories-Ex1, their visualizations in the folder visualization
 (d) Allowing only local moves results in the most indentical trajectories. 4 out of 5 trajectories follow a similar path. 
