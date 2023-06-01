@@ -2,5 +2,5 @@
 
 Pivot moves create the most uncorrelated changes. Local moves only change the configuration in a subtle way.
 
-#comment - no trajectories submitted for reptation moves only( part(b)(-0.5)) and no answer for part(e)(-1), 
-(2.5/4 points)
+#comment- 
+(4/4 points)

@@ -1,0 +1,1 @@
+At low temperatures, big changes are more likely rejected because the energy is already low. Thus moves are less likely to happen.
